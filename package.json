@@ -1,6 +1,6 @@
 {
 	"name": "keba_gsi_obis",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "OBIS Code Handling for GSI (GrünstromIndex) with KEBA P30 Connect Wallbox",
 	"keywords": [
 		"keba",
