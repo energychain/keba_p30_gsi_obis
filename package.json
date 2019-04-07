@@ -1,0 +1,34 @@
+{
+	"name": "keba_p30_gsi_obis",
+	"version": "1.0.0",
+	"description": "OBIS Code Handling for GSI (GrünstromIndex) with KEBA P30 Connect Wallbox",
+	"keywords": [
+		"keba",
+		"gsi",
+		"blockchain",
+		"corrently",
+		"p30",
+		"obis",
+		"energy"
+	],
+	"homepage": "https://github.com/energychain/keba_p30_gsi_obis#readme",
+	"bugs": {
+		"url": "https://github.com/energychain/keba_p30_gsi_obis/issues"
+	},
+	"license": "ISC",
+	"main": "index.js",
+	"bin": {
+		"gsi-keba": "./index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/energychain/keba_p30_gsi_obis.git"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"dependencies": {
+		"dotenv": "^7.0.0",
+		"request": "^2.88.0"
+	}
+}
